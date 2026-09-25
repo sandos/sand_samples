@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/vasilymilovidov/samples/main//",
+  "_base": "https://raw.githubusercontent.com/sandos/sand_samples/main//",
   "voices" : [
     "voices/low_d.wav"
   ]
